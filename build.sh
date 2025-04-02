@@ -19,7 +19,7 @@ rpm-ostree install tmux \
                    sshfs \
                    mkvtoolnix \
                    tesseract \
-                   handbrake \
+#                   handbrake \
 
 # this would install a package from rpmfusion
 # rpm-ostree install vlc
