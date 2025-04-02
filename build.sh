@@ -17,6 +17,9 @@ rpm-ostree install tmux \
                    zsh \
                    nextcloud-client \
                    sshfs \
+                   mkvtoolnix \
+                   tesseract \
+                   handbrake \
 
 # this would install a package from rpmfusion
 # rpm-ostree install vlc
