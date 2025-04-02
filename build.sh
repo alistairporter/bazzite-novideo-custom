@@ -16,6 +16,7 @@ RELEASE="$(rpm -E %fedora)"
 rpm-ostree install tmux \
                    zsh \
                    nextcloud-client \
+                   sshfs \
 
 # this would install a package from rpmfusion
 # rpm-ostree install vlc
